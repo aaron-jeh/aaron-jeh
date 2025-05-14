@@ -1,5 +1,5 @@
-## Hi there 👋
-
+### Hello Wolrd! I'm Aaron 👋
+![Logo HEO](img/HEO_logo.png)
 <!--
 **aaron-jeh/aaron-jeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Hunkoria writing project
+- Take a look on that project in here: [HEO Wiki](https://aaron-jeh.github.io)
