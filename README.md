@@ -1,16 +1,16 @@
 <!-- This is still WIP -->
-![Logo HEO](img/github-header-image.png)
+![GitHub Banner](img/github-header-image.png)
+
+Just your average 18 y.o. who’s into writing weird sci-fi stuff and messing around with pixel art 👾.  
+Sometimes a Pro Gamer 🎮, sometimes a Programmer 💻 (but not too often 😅).  
+This GitHub is where I store my creative projects — including my fictional universe called **Hunkoria** 🌌.
+
+🌐 Check out my main site here:  
+[![My GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://aaron-jeh.github.io)
 
 ---
 
-##### 🔭 I’m currently working on Hunkoria universe writing project
-
-- Learn more about it here 👇
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://aaron-jeh.github.io)
-
----
-
-## 🖥️ My IT Skills
+# 🖥️ My IT Skills
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
@@ -22,7 +22,7 @@
 
 ---
 
-### 🌐 My Social Media
+## 🌐 My Social Media
 <p>
   <!-- <a href="https://www.linkedin.com/in/...">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -43,7 +43,7 @@
 
 ---
 
-#### 📬 Contact Me
+### 📬 Contact Me
 <p>
   <a href="https://wa.me/089502959266">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
@@ -58,7 +58,7 @@
 
 ---
 
-#### ☕ Support Me
+### ☕ Support Me
 <p>
   <!-- <a href="https://www.paypal.me/..."> -->
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
